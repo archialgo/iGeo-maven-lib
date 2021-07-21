@@ -1,0 +1,4 @@
+install:
+  # iGeo:1 jar
+  - FILE1="-Dfile=./igeo.jar"
+  - mvn install:install-file $FILE1 -DgroupId=com.github.sghr -DartifactId=iGeo -Dversion=0.9.4.1 -Dpackaging=jar -DgeneratePom=true
