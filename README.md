@@ -3,9 +3,9 @@
 original author: [sghr/iGeo](https://github.com/sghr/iGeo)  
 
 ## Supported Versions:  
-0.9.4.1  
-0.9.4.1.1 (for processing 2)  
-0.9.3.0
+- 0.9.4.1  
+- 0.9.4.1.1 (for processing 2)  
+- 0.9.3.0
 
 ## How to
 **Step 1.** Add the JitPack repository to your build file
